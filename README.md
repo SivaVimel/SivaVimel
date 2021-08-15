@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SivaVimel,
 - 👀 I’m interested in Full Stack Development & Data Science,
-- 🌱 I’m currently pursuing computer science engineering,
+- 🌱 I’m currently pursuing Bachelor of Engineering in Computer Science,
 - 📫 How to reach sivavimelrajhen@gmail.com
 
 <!---
